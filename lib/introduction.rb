@@ -1,9 +1,9 @@
-def introduction (name)
+def introduction (Josh)
   puts "Hi, my name is #{name}."
 end
 
 
-def introductionwithlanguage (language)
+def introduction_with_language (Dan)(Emmber.js)
   
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
